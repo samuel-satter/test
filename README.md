@@ -2,4 +2,4 @@
 ## second header
 </br>
 
-this is a text written using markdown!
+this is a **text** written using markdown!
